@@ -1,8 +1,13 @@
 # Analise de dados vendas
 
+<p align="Center">DASHBOARD DE VENDAS</p>
 <p align="center">
-  <img alt="" width="70%" src="">
+  <img alt="Pagina 1" width="70%" src="image/dash_pag1.png">
 </p>
+<p align="center">
+  <img alt="Pagina 2" width="70%" src="image/dash_pag2.png">
+</p>
+
 
 
 1. Qual é a receita total e a receita em 2020 e 2021?
