@@ -1,7 +1,7 @@
 # Analise de dados vendas
 
 <p align="center">
-  <img alt="Barcelona" width="70%" src="">
+  <img alt="" width="70%" src="">
 </p>
 
 
