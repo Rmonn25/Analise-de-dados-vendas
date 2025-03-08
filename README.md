@@ -1,7 +1,7 @@
 # Analise de dados vendas
 
 Este projeto consiste em uma análise dados de um dataset de vendas da Nike, obtido no [Kaggle.](https://www.kaggle.com/datasets/krishnavamsis/nike-sales/data). 
-Para isso, utilizei SQL na exploração dos dados, formulando consultas para obter as informações necessarias. Ao final, desenvolvi um dashboard interativo e uma apresentação para visualizar e comunicar os principais insights de forma clara e objetiva.
+Para isso, utilizei SQL na exploração dos dados, formulando consultas para obter as informações necessárias. Ao final, desenvolvi um dashboard interativo e uma apresentação para visualizar e comunicar os principais insights de forma clara e objetiva.
 
 ## Conjuntos de dados
 
@@ -27,8 +27,8 @@ Os dados utilizados estão distribuídos em 9 colunas sendo elas:
 
 ## Ferramentas
 
-- **SQL Server**: Ultilizei para responder as perguntas de negocios.
-- **Microsoft Power BI**: Ultilizei para criar um dashboard e acabei ultilizando algumas funções DAX para obter mais infomações.
+- **SQL Server**: Utilizei para responder as perguntas de negócios.
+- **Microsoft Power BI**: Utilizei para criar um dashboard e acabei ultilizado algumas funções DAX para obter mais informações.
 - **Microsoft PowerPoint**: Criei a apresentação para comunicar os principais insights e conclusões.
 
 ## Perguntas de Negócio 
