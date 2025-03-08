@@ -1,6 +1,23 @@
 # Analise de dados vendas
 
-<p align="Center">DASHBOARD DE VENDAS</p>
+Este projeto consiste em uma análise dados de um dataset de vendas da Nike, obtido no [Kaggle.](https://www.kaggle.com/datasets/krishnavamsis/nike-sales/data). 
+Para isso, utilizei SQL na exploração dos dados, formulando consultas para obter as informações necessarias. Ao final, desenvolvi um dashboard interativo e uma apresentação para visualizar e comunicar os principais insights de forma clara e objetiva.
+
+## Conjuntos de dados
+
+Os dados utilizados estão distribuídos em 9 colunas sendo elas:
+
+- Date
+- Product
+- Region
+- Retailer
+- Sales Method
+- State
+- Price per Unit
+- Total Sales
+- Units Sold
+
+## Dashboard
 <p align="center">
   <img alt="Pagina 1" width="70%" src="image/dash_pag1.png">
 </p>
@@ -8,7 +25,13 @@
   <img alt="Pagina 2" width="70%" src="image/dash_pag2.png">
 </p>
 
+## Ferramentas
 
+- **SQL Server**: Ultilizei para responder as perguntas de negocios.
+- **Microsoft Power BI**: Ultilizei para criar um dashboard e acabei ultilizando algumas funções DAX para obter mais infomações.
+- **Microsoft PowerPoint**: Criei a apresentação para comunicar os principais insights e conclusões.
+
+## Perguntas de Negócio 
 
 1. Qual é a receita total e a receita em 2020 e 2021?
 
