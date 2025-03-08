@@ -1,5 +1,10 @@
 # Analise de dados vendas
 
+<p align="center">
+  <img alt="Barcelona" width="70%" src="">
+</p>
+
+
 1. Qual é a receita total e a receita em 2020 e 2021?
 
 |  Ano  |   Receita    |
@@ -8,7 +13,18 @@
 | 2021  | $ 9.186.402  |
 |**Total**|**$ 11.619.146**|
 
-4. Receita por região
+2. Ranking de produtos vendidos
+
+| Produto | Quantidade Vendida | Receita Total |
+|----------------|------------------|--------------|
+| Calçado de Rua Masculino   | 57.737 | $ 2.667.814  | 
+| Roupa Feminina             | 42.356 | $ 2.311.841  |
+| Calçado Atlético Masculino | 42.429 | $ 1.982.704  |
+| Calçado de Rua Feminino    | 38.309 | $ 1.661.186  |
+| Roupa Masculino            | 30.085 | $ 1.607.586  |
+| Calçado Atlético Feminino  | 38.309 | $ 1.388.015  |
+
+3. Receita por região
 
 |  Região  |   Receita    |
 | -------- | ------------ |
@@ -18,7 +34,7 @@
 | Sul      | $ 2.069.055  |
 | Centro-Oeste | $ 1.678.430  |
 
-5. Top 5 Estados com mais lucros em 2020 e 2021
+4. Top 5 Estados com mais lucros em 2020 e 2021
 
 |  Estado  |   Receita    |
 | -------- | ------------ |
@@ -28,7 +44,7 @@
 | Texas      | $ 663.511  |
 | South Carolina | $ 360.746  |
 
-6. Desempenho de receita pelos canais de vendas em 2020 e 2021
+5. Desempenho de receita pelos canais de vendas em 2020 e 2021
 
 | Canal de Venda | Quantidade Vendida | Receita Total | % |
 |----------------|------------------|--------------|--------|
@@ -36,7 +52,7 @@
 | Outlet         | 79.706           | $ 3.607.110  | 31,04% |
 | Loja           | 69.401           | $ 3.585.910  | 30,86% |
 
-7. Desempenho da receita pelos varejistas
+6. Desempenho da receita pelos varejistas
 
 | Varejistas | Quantidade Vendida | Receita Total | % |
 |---------------|------------------|--------------|------|
